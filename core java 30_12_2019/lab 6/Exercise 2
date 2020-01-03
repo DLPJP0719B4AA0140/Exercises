@@ -10,7 +10,7 @@ public class RNDFile {
 
 	public static void main(String[] args) {
 
-		File file = new File("C:\\Users\\ADMIN\\workspace\\Pratik\\src\\lab6\\rndfile.txt"); 
+		File file = new File("C:\\Users\\ADMIN\\workspace\\Aakash\\src\\lab6\\rndfile.txt"); 
 		  
 		  BufferedReader br = null;
 		  int i=0;
