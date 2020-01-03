@@ -6,7 +6,7 @@ public class Count
 { 
     public static void main(String[] args) throws IOException 
     { 
-		File file = new File("C:\\Users\\ADMIN\\workspace\\Pratik\\src\\lab6\\rndfile.txt"); 
+		File file = new File("C:\\Users\\ADMIN\\workspace\\Aakash\\src\\lab6\\rndfile.txt"); 
         FileInputStream fileStream = new FileInputStream(file); 
         InputStreamReader input = new InputStreamReader(fileStream); 
         BufferedReader reader = new BufferedReader(input); 
